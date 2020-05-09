@@ -24,7 +24,7 @@ One Paragraph of project description goes here
 
 - [Licence](##License)
 
-- [Acknowledgements](##Acknowledgements)
+- [Acknowledgements](#Acknowledgements)
  
 ## Getting Started
 
