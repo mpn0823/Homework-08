@@ -4,7 +4,7 @@ One Paragraph of project description goes here
 
 ## Table of Contents
 
-[Acknowledgments]
+- [Acknowledgments]
  
 ## Getting Started
 
