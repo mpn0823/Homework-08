@@ -6,11 +6,26 @@ One Paragraph of project description goes here
 
 - [Getting Started](##Getting%20Started)
   
-- [Heading](#heading-1)
+- [Prerequisites](##Prerequisites)
   
-- [Heading](#heading-2)
- 
+- [Installing](##Installing)
 
+- [Running the Tests](##Running%20the%20Tests)
+
+- [Deployment](##Deployment)
+
+- [Built With](##Built%20With)
+
+- [Contributing](##Contributing)
+
+- [Versioning](##Versioning)
+
+- [Authors](##Authors)
+
+- [Licence](##License)
+
+- [Acknowledgements](##Acknowledgements)
+ 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
