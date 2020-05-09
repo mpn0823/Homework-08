@@ -14,7 +14,7 @@ One Paragraph of project description goes here
  8. [Versioning](#Versioning)
  9. [Authors](#Authors)
 10. [License](#Licence)
-11. [Acknowledgements](#Acknowledgements)
+11. [Acknowledgments](#Acknowledgments)
  
 ## Getting Started
 
