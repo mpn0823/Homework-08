@@ -4,7 +4,7 @@ One Paragraph of project description goes here
 
 ## Table of Contents
 
-- [Heading](#Getting Started)
+- [Heading](#Getting%20Started)
   
 - [Heading](#heading-1)
   
