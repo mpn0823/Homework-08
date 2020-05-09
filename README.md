@@ -4,15 +4,12 @@ One Paragraph of project description goes here
 
 ## Table of Contents
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#Getting Started)
+  
 - [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  
 - [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+ 
 
 ## Getting Started
 
