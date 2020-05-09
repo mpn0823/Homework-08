@@ -4,7 +4,17 @@ One Paragraph of project description goes here
 
 ## Table of Contents
 
-1. [Getting Started](#Getting-Started)
+ 1. [Getting Started](#Getting-Started)
+ 2. [Prerequisites](#Prerequisites)
+ 3. [Installing](#Installing)
+ 4. [Running the Tests](#Running-the-Tests)
+ 5. [Deployment](#Deployment)
+ 6. [Built With](#Built-With)
+ 7. [Contributing](#Contributing)
+ 8. [Versioning](#Versioning)
+ 9. [Authors](#Authors)
+10. [License](#Licence)
+11. [Acknowledgements](#Acknowledgements)
  
 ## Getting Started
 
