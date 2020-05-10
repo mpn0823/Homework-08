@@ -1,5 +1,4 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mpn0823/Homework-08)
-[![GitHub license](https://img.shields.io/github/license/mpn0823)](https://github.com/mpn0823/Homework-08/master/LICENSE)
 
 # README Generator
 
