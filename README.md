@@ -1,8 +1,8 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mpn0823/Homework-08)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mpn0823/Homework-08)
 
 # README Generator
 
-A simple CLI program for generating README's in Markdown from user input.
+A simple CLI program to generate README's in Markdown from user input.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ A simple CLI program for generating README's in Markdown from user input.
 
 ## Usage
 
-For external use only!
+Run the program and answer the prompts.  If you leave a prompt blank then that section will be omitted from the README.
 
 ## Installing
 
