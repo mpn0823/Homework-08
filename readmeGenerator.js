@@ -46,13 +46,13 @@ const fs = require("fs");
         if (input.authors != '') toc += "- [Authors](#Authors)\n";
         if (input.contributing != '') toc += "- [Contributing](#Contributing)\n";
         if (input.license != '') toc += "- [License](#License)\n";
-        return toc;
+        return toc + "\n";
     }
 
     // Returns readme text corresponding to user input
     function genREADME(input) {
         let readme = `# ${input.title}\n\n${input.description}\n\n## Table of Contents\n\n${genTOC(input)}`;
-        if (input.account != '' && input.repo != '') readme = `![GitHub commit activity](https://img.shields.io/github/commit-activity/m/${input.account}/${input.repo})\n\n` + readme;
+        if (input.account != '' && input.repo != '') readme = `![GitHub commit activity](https://img.shields.io/github/commit-activity/${input.account}/${input.repo})\n\n` + readme;
         if (input.usage != '') readme += `## Usage\n\n${input.usage}\n\n`
         if (input.installation != '') readme += `## Installing\n\n${input.installation}\n\n`
         if (input.tests != '') readme += ` ## Running the tests\n\n${input.tests}\n\n`
