@@ -1,4 +1,4 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mpn0823/Homework-08)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mpn0823/Homework-08)
 
 # README Generator
 
