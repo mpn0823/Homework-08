@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mpn0823/Homework-08#readme",
   "dependencies": {
-    "inquirer": "^7.1.0"
+    "inquirer": "^7.1.0",
+    "terminalizer": "^0.7.2"
   }
 }

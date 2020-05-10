@@ -52,7 +52,7 @@ const fs = require("fs");
     // Returns readme text corresponding to user input
     function genREADME(input) {
         let readme = `# ${input.title}\n\n${input.description}\n\n## Table of Contents\n\n${genTOC(input)}`;
-        if (input.account != '' && input.repo != '') readme = `![GitHub commit activity](https://img.shields.io/github/commit-activity/${input.account}/${input.repo})\n\n` + readme;
+        if (input.account != '' && input.repo != '') readme = `![GitHub commit activity](https://img.shields.io/github/commit-activity/w/${input.account}/${input.repo})\n\n` + readme;
         if (input.usage != '') readme += `## Usage\n\n${input.usage}\n\n`
         if (input.installation != '') readme += `## Installing\n\n${input.installation}\n\n`
         if (input.tests != '') readme += ` ## Running the tests\n\n${input.tests}\n\n`
